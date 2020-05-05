@@ -1,1 +1,35 @@
-//add your installation process
+---------------------------INSTALLATION GUIDE FOR FIRE ALARM SYSTEM---------------------------------
+
+REST API
+--------
+
+//Software requirements
+
+IntelliJ IDEA (Ultimate Version) -  https://www.jetbrains.com/idea/download/#section=windows
+Spring assistant                 -  https://plugins.jetbrains.com/plugin/10229-spring-assistant
+Maven                            -  http://maven.apache.org/download.cgi
+
+//Instructions
+
+1.	Install the IntelliJ IDEA using the given link.
+2.	Add the spring assistant plugin for the IDE.
+3.	Clone the project using GIT HUB.
+4.	Run the program. 
+
+DATABASE
+--------
+
+//Software requirements
+
+XAMPP                            -  https://www.apachefriends.org/download.html
+phpMyAdmin                       -  http://localhost/phpmyadmin/index.php
+
+//Instructions
+
+1.	Install XAMPP using the given link and start ‘Apache’ server and ‘MySQL’.
+2.	Open phpMyAdmin from your browser and create a database called ‘sensor_db’.
+3.	Import the given query in the project repository to the created database.
+
+
+
+
