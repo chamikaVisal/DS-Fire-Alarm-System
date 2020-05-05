@@ -31,5 +31,24 @@ phpMyAdmin                       -  http://localhost/phpmyadmin/index.php
 3.	Import the given query in the project repository to the created database.
 
 
+RMI Client Server
+----------------
+
+//Software Requirements
+
+IntelliJ IDEA (Ultimate Version) -  https://www.jetbrains.com/idea/download/#section=windows
+JDK version (13.0.2) - https://www.oracle.com/java/technologies/javase-jdk13-downloads.html
+Required jar files - https://drive.google.com/open?id=1_Re-hYexYeVJwGeao7jxFUltkEjwGSk8
+
+//Instructions
+
+1.Add the above metioned jar files as external libraries to the project.
+2.Make sure the jdk version used in the project is 13.0.2.
+3.First run the RmiServer class.
+4.Run Welcome.java class.
+5.If you click on Admin, Admin dashboard will be displayed.
+6.If you click on User desktop client dashboard will be displayed.
+
+
 
 
