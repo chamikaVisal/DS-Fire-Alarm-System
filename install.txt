@@ -49,6 +49,25 @@ Required jar files - https://drive.google.com/open?id=1_Re-hYexYeVJwGeao7jxFUltk
 5.If you click on Admin, Admin dashboard will be displayed.
 6.If you click on User desktop client dashboard will be displayed.
 
+WEB-Client & Dummy Sensor Application
+-------------------------------------
+
+//Software Requirements
+
+Node.js - https://nodejs.org/en/download/
+(Download the correct installer according to your OS, Ex: Windows)
+
+//Instructions
+
+1.go inside the project and open the command prompt
+2.Run "npm install"
+3.Run "npm fund"
+4.Run "npm start"
+
+Then the project will run in your default browser
+
+
+
 
 
 
